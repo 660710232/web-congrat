@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "title": "Oddity",
+        "date": "21 กันยายน 2024",
+        "location": "เซนทรัลนครปฐม",
+        "note": "เรื่องนี้เป็นเรื่องที่เราดูหนังด้วยกันครั้งแรก เจอกันครั้งแรก เค้าอยากบอกว่าตกหลุมรัก",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzUwMWFkOTMtNTAxYS00M2NhLWE2YzgtYTYzZTJkNWNiNDgxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "id": 2,
+        "title": "ธี่หยด 2",
+        "date": "12 ตุลาคม 2024",
+        "location": "โลตัสกำแพงแสน",
+        "note": "เรื่องนี้ที่เค้ากับพั้นช์ดูแล้วเค้าเห็นพั้นช์ตกใจเยอะอยู่นะ เห็นแล้วก็น่าเอ็นดู จำฉากหมอเสมงูฉฉกได้เลย แล้วที่เรานั่งดูธี่หยดภาคแแรกกันที่ KFC คิดถึงเนอะ",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmQzMjI0YTMtNmE3OC00MTk0LWE0ODAtY2ZmNzg5M2NkMDQxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "id": 3,
+        "title": "We Live In Time",
+        "date": "31 ตุลาคม 2024",
+        "location": "เซนทรัลนครปฐม",
+        "note": "หนังโรแมนติกที่เราดูด้วยกัน ที่เราจุ้บกันครั้งแรก",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmQwNzRiNmItODc4Ny00Mjk4LThmYWQtNjI5OGU4OGUxMmY0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "id": 4,
+        "title": "วัยหนุ่ม 2544",
+        "date": "14 ธันวาคม 2024",
+        "location": "เซนทรัลนครปฐม",
+        "note": "ทางแยกแตกลายของชายวัยหนุ่ม เค้าจำไม่ได้เลย 5555555",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGY4MWFmZmUtYmEyYi00YTVlLWEzODQtYjRiNGYxOWI4YzVlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "id": 5,
+        "title": "คุณชายน์",
+        "date": "27 ธันวาคม 2024",
+        "location": "โลตัสกำแพงแสน",
+        "note": "หนังที่เค้าว่างแล้วพั้นช์มีเรียน แแต่พั้นช์ก็มาดูหนังด้วย เค้าอยากบอกว่าเค้าชอบพั้นช์นะครับ แบร่",
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2ZkMzc0NTktODYwNy00YzBjLWE1MzUtZTRjNTFmMTJlMzc2XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "id": 6,
+        "title": "พนอ",
+        "date": "25 มกราคม 2025",
+        "location": "เซนทรัลนครปฐม",
+        "note": "หนังที่เค้าพูดตามตรงว่าไม่ไหว เค้ากลัวเลือดหัวใจสั่นสุดๆ",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDZjYzQ4OTItYTk4Zi00NmU0LTg2ZDMtNzNhNTgzMzE5MmIyXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Captain America: Brave New World",
+        "date": "14 กุมภาพันธ์ 2025",
+        "location": "โลตัสกำแพงแสน",
+        "note": "เค้าจำได้แค่กับตันสู้กับเรดฮัคแล้ววก็บินๆ ฟิ่วๆๆๆ",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDRjY2E0ZmEtN2QwNi00NTEwLWI3MWItODNkMGYwYWFjNGE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "id": 8,
+        "title": "A Working Man",
+        "date": "2 เมษายน 2025",
+        "location": "เซนทรัลนครปฐม",
+        "note": "หนังแอคชั่น จำไรไม่ได้เลย จำได้แค่พั้นช์น่ารักแล้วน่าจะวันที่เค้าเมาน้ำตาล",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmQxZGIxNTYtYTQwMy00ODdkLWI0MmQtM2E0ZmIyNmYzMGMzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Lilo & Stitch",
+        "date": "3 มิถุนายน 2025",
+        "location": "โลตัสกำแพงแสน",
+        "note": "หนังที่พั้นช์น้ำตาไหลเลย",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmFmZjM1ZTEtYzQ5ZS00MTRmLTkzMDktYWMxNTg2NGE3YjY4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "id": 10,
+        "title": "The Fantastic Four: First Steps",
+        "date": "26 กรกฏาคม 2025",
+        "location": "โลตัสกำแพงแสน",
+        "note": "เรื่องที่เค้าไปรับพั้นช์นั่งรถครั้งแรก เค้าชอบตอนขับรถแล้วพั้นช์นั่งข้างๆนะ",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "id": 11,
+        "title": "ดาบพิฆาตอสูร: ปราสาทไร้ขอบเขต",
+        "date": "23 สิงหาคม 2025",
+        "location": "โลตัสกำแพงแสน",
+        "note": "เมะที่พั้นช์อยากดู สนุกดีนะ แต่เค้าไม่ค่อยรู้เรื่องเท่าไหร่ จำได้แค่มุซัน พวกนักล่าอสูรเกะกะสายตา",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGQ3YWUzYjEtMTJiYy00ZjQ0LWI0YjktYjhiNGVhNGExYTM3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "id": 12,
+        "title": "ธี่หยด 3",
+        "date": "4 ตุลาคม 2025",
+        "location": "เซนทรัลนครปฐม",
+        "note": "หนังที่เค้างงว่าทำมาทำไม",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDBlYmU0NmItYTc5NS00N2RjLWE4YWUtMDFjNzM5MjZiYTNiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "id": 13,
+        "title": "อนงค์ 2",
+        "date": "12 พฤศจิกายน 2025",
+        "location": "โลตัสกำแพงแสน",
+        "note": "หนังรัก ที่เท็นรักพั้นช์",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzQyNDU5NWEtNzFiMC00NzY2LTkzNzYtMTdiYjY3Y2RhMGQ0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Jujutsu Kaisen The Movie",
+        "date": "10 ธันวาคม 2025",
+        "location": "โลตัสกำแพงแสน",
+        "note": "เค้าจำเรื่องนี้ได้เพราะว่าเค้าอ่านละถึงตรงนี้ เลยไม่ค่อยได้ดู ดูแต่หน้าพั้นช์ น่ารักจัง",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjBlNTExMDAtMWZjZi00MDc5LWFkMjgtZDU0ZWQ5ODk3YWY5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Detective Conan: The Movie 29",
+        "date": "6 พฤษภาคม 2026",
+        "location": "โลตัสกำแพงแสน",
+        "note": "หนังที่เค้าเลือกเพราะอยากเจอพันช์สุดๆ เพราะไม่ได้เจอนาน",
+        "poster": "https://media.sfcinema.com/public/1773140966502_8904016f038771ed1adf0f6dc9a62473.jpg"
+    },
+    {
+        "id": 16,
+        "title": "Supergirl: Woman of Tomorrow",
+        "date": "8 กรกฎาคม 2026",
+        "location": "โลตัสกำแพงแสน",
+        "note": "หนังเรื่องท้้ายที่เราดูด้วยกัน แต่เค้าอยากดูหนังกับพั้นช์อีกเยอะๆนะ",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmJkOTE0MWUtY2E5OS00NzEyLWI4NjEtYzQzYzFmMjk5ODE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    }
+]
